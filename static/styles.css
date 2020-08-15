@@ -1,0 +1,12 @@
+* {
+    color: white;
+    background: black;
+}
+
+figure {
+    font-weight: bold;
+}
+
+figcaption {
+    font-weight: normal;
+}
