@@ -1,0 +1,10 @@
+[package]
+name = "gamevoin_replacement"
+version = "0.1.0"
+authors = ["nonk123 <Sergeyii321@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rouille = "3.0.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_yaml = "0.8"
